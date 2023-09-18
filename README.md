@@ -1,2 +1,2 @@
-# joke-generator
-A joke generator built using HTML, CSS and JS
+# Joke Generator (JS Project #13)
+A joke generator built using HTML, CSS and JS.
