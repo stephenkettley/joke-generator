@@ -23,12 +23,14 @@ body {
     font-weight: 200;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-shadow: 5px 5px 2px rgba(0,0,0,0.3);
+    user-select: none;
     letter-spacing: 2px;
 }
 
 .joke {
     font-size: 25px;
     font-weight: 500;
+    user-select: none;
     margin: 40px;
 }
 
@@ -44,6 +46,7 @@ body {
     width: 300px;
     color: #0d0d0d;
     transition: all 0.2s ease;
+    user-select: none;
 }
 
 .btn:hover {
