@@ -2,5 +2,6 @@
 
 A joke generator built using HTML, CSS and JS.
 
-![image](https://github.com/stephenkettley/joke-generator/assets/109079565/cb203f3d-c224-4691-8882-433d3b2969ee)
+<img width="1410" alt="image" src="https://github.com/stephenkettley/joke-generator/assets/109079565/43cf33fd-0206-439e-943f-297edf815716">
+
 
